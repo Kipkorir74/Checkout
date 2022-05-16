@@ -14,7 +14,7 @@ const handleSubmit = (e) => {
   e.preventDefault();
   const info = {FirstName,SecondName, Phone, address,payment};
 
-  console.log(info);
+  // console.log(info);
   
   
   fetch('http://localhost:8000/info/', {
@@ -64,7 +64,7 @@ const handleSubmit = (e) => {
                     <option value="CASH ON DELIVERY">Cash on Delivery</option>
                     <option value="Stripe">Stripe</option>
                 </select>
-                {!isPending && <button>Checkout</button>}
+                {!isPending && <button>Checkout </button>}
                 {isPending && <button disabled> Adding checkout...</button>}
                 
             </form>
