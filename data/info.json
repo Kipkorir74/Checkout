@@ -1,0 +1,68 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "FirstName": " Graham",
+      "SecondName": " Onchagwa",
+      "Phone": " 0769779486",
+      "address": "111 ",
+      "payment": " MPESA"
+    },
+    {
+      "id": 2,
+      "FirstName": " George",
+      "SecondName": " Hill",
+      "Phone": " 0769879486",
+      "address": "2411 ",
+      "payment": " Cash on Delivery"
+    },
+    {
+      "id": 3,
+      "FirstName": "Gerald",
+      "SecondName": "Onchagwa",
+      "Phone": "0769779486",
+      "address": "2579",
+      "payment": "CASH ON DELIVERY"
+    },
+    {
+      "id": 4,
+      "FirstName": "Fricky",
+      "SecondName": "Kamau",
+      "Phone": "078965221",
+      "address": "2579",
+      "payment": "Stripe"
+    },
+    {
+      "id": 5,
+      "FirstName": "Fricky",
+      "SecondName": "Kamau",
+      "Phone": "078965221",
+      "address": "2579",
+      "payment": "Stripe"
+    },
+    {
+      "FirstName": "Jenyy",
+      "SecondName": "Kiplahat",
+      "Phone": "0769779486",
+      "address": "2579",
+      "payment": "CASH ON DELIVERY",
+      "id": 6
+    },
+    {
+      "FirstName": "Dufla",
+      "SecondName": "Master",
+      "Phone": "0769779486",
+      "address": "2579",
+      "payment": "MPESA",
+      "id": 7
+    },
+    {
+      "FirstName": "vero",
+      "SecondName": "ero",
+      "Phone": "0769779486",
+      "address": "2579",
+      "payment": "CASH ON DELIVERY",
+      "id": 8
+    }
+  ]
+}
